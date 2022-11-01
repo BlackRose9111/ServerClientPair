@@ -1,0 +1,8 @@
+{
+     "port": 5050,
+     "server": "127.0.0.1",
+     "gameversion": "0.01 Chay-Gow",
+     "currentturn": 1,
+     "costtostartaguild": 100000,
+     "packagecipher" : "xlabPMzN6Mveph05zgDZOxaYD9gCM7rYRWSP-wLiXfI="
+}
